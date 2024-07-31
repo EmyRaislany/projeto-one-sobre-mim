@@ -118,6 +118,6 @@ background-color: var(--cor-hover);
 
 @media( max-width: 1200px){
 	.apresentacao{
-		flex-direction: colunm-reverse;
+		flex-direction: column-reverse;
 	}
 }
