@@ -133,5 +133,7 @@ background-color: var(--cor-hover);
     .apresentacao__conteudo{
         width: auto;
     }
-
+    .apresentacao__redes__links{
+	    width: auto;
+    }
 }
