@@ -117,6 +117,14 @@ background-color: var(--cor-hover);
 }
 
 @media (max-width: 1500px) {
+    .cabecalho {
+        padding: 10%;
+    }
+
+    .cabecalho__menu {
+        justify-content: center;
+    }
+
     .apresentacao {
         flex-direction: column-reverse;
     }
