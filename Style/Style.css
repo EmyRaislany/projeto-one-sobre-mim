@@ -35,7 +35,7 @@
 
 body {
     background-color: var(--cor-primaria);
-	box-sizing: border-box;
+    box-sizing: border-box;
     color: var(--cor-secundaria);
 }
 
@@ -44,7 +44,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 5%;
+    gap: 82px;
 }
 
 .apresentacao__conteudo{
@@ -85,17 +85,18 @@ body {
 .apresentacao__redes__links{
     display: flex;
     justify-content: center;
+    border: 2px solid var(--cor-detalhes);
     gap: 16px;
     width: 50%;
     text-align: center;
     text-decoration: none;
     border-radius: 8px;
     font-size: 1.5rem;
-    padding: 21px 0px;
+    padding: 21.5px 0px;
     color: var(--cor-secundaria);
     font-family: var(--fonte-primaria);
     font-weight: 600;
-    border: 2px solid var(--cor-detalhes);
+
 }
 
 .apresentacao__redes__links:hover{
